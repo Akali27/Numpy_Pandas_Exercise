@@ -6,7 +6,7 @@ This exercise provides a good practice working with the Numpy and Pandas Library
 
 ## Instructions
 
-Read the purchase_data.json file, and produce the following: 
+The script in output.ipynb reads the purchase_data.json file and produces the following: 
  
  Player Count:
    *Total Number of Players
