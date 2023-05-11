@@ -30,6 +30,7 @@ The script in analysis.ipynb reads the purchase_data.json file and produces the 
    - Normalized Totals
 
  Age Demographics:
+   
    The below each broken into bins of 4 years (i.e. &lt;10, 10-14, 15-19, etc.) 
    - Purchase Count
    - Average Purchase Price
@@ -37,6 +38,7 @@ The script in analysis.ipynb reads the purchase_data.json file and produces the 
    - Normalized Totals
 
  Top Spenders:
+   
    Identify the the top 5 spenders in the game by total purchase value, then list (in a table):
    - SN
    - Purchase Count
@@ -44,6 +46,7 @@ The script in analysis.ipynb reads the purchase_data.json file and produces the 
    - Total Purchase Value
 
  Most Popular Items:
+   
    Identify the 5 most popular items by purchase count, then list (in a table):
    - Item ID
    - Item Name
@@ -52,6 +55,7 @@ The script in analysis.ipynb reads the purchase_data.json file and produces the 
    - Total Purchase Value
 
  Most Profitable Items: 
+   
    Identify the 5 most profitable items by total purchase value, then list (in a table):
    - Item ID
    - Item Name
